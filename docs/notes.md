@@ -36,3 +36,4 @@ Notes and usage details for snes.css.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- link the usage section
